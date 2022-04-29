@@ -1,5 +1,5 @@
 # Payment Integration Using Razorpay Example in Codeigniter 3, jQuery and MySQL
-Sample for how to use Payment Integartion using Razorpay in CodeIgniter 3
+Sample for how to use Payment Integration using Razorpay in CodeIgniter 3
 
 ## Dependencies 
 Setup CodeIgniter 3 Framework . Download the latest release from [downlaod codeigniter 3](https://codeigniter.com/userguide3/installation/downloads.html)
